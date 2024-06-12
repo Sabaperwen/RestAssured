@@ -1,0 +1,10 @@
+{
+  "name" : "saba",
+  "address" : "Bokaro",
+  "phone" : [ 766543, 98765442 ],
+  "spouce" : {
+    "name" : "chanda",
+    "address" : "Banglore",
+    "phoneNm" : [ 123455, 987654 ]
+  }
+}
